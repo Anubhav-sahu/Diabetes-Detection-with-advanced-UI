@@ -103,5 +103,7 @@ streamlit run diabetes_ui.py
 > Probability: Diabetic (28%) | Not Diabetic (72%)
 
 ---
+UI - 
+![Image](https://github.com/user-attachments/assets/532987ea-5dfe-45e8-99cf-68e5cbcdfb1a)
 
 
