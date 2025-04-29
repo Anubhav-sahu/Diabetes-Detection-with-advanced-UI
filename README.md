@@ -9,7 +9,7 @@
 - Built using PIMA Indian Diabetes Dataset
 - Clean and interactive **Streamlit UI**
 - Shows prediction result and probability
-- Complete code for model training and deployment included
+- Complete code for model training and deployment  included
 
 ---
 
